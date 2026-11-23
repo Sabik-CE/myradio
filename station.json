@@ -4,8 +4,8 @@
  "description": "電子工作・3Dプリンター・AI の、きのうの気になるニュースを、毎朝 90 秒で。",
  "tagline": "AI・3D 朝のニュース",
  "logo": "logo.svg",
- "url": "https://monoradio102.github.io/myradio/",
- "repo": "https://github.com/monoradio102/myradio",
+ "url": "https://sabik-ce.github.io/myradio/",
+ "repo": "	https://github.com/Sabik-CE/myradio",
  "language": "ja",
  "languages": [
   "ja",
