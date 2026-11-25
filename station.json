@@ -1,8 +1,8 @@
 {
  "format": "myradio/station-1",
  "name": "SabikRadio",
- "description": "電子工作・3Dプリンター・AI の、きのうの気になるニュースを、毎朝 90 秒で。",
- "tagline": "AI・3D 朝のニュース",
+ "description": "医療機器・医療DX・サイバーセキュリティの気になるニュースを、毎朝90秒で。",
+ "tagline": "医療機器・医療DX・サイバーセキュリティのニュース",
  "logo": "logo.svg",
  "url": "https://sabik-ce.github.io/myradio/",
  "repo": "https://github.com/Sabik-CE/myradio",
@@ -41,9 +41,9 @@
  },
  "i18n": {
   "en": {
-   "name": "Mono Radio",
-   "tagline": "Morning news on AI and 3D",
-   "description": "The news worth knowing in electronics, 3D printing and AI, every morning in 90 seconds.",
+   "name": "SabikRadio",
+   "tagline": "Medical devices, healthcare DX and cybersecurity",
+   "description": "News on medical devices, healthcare digital transformation and cybersecurity, every morning in 90 seconds.",
    "credits": [
     "Voice: Kokoro (af_heart)"
    ],
